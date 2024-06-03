@@ -40,3 +40,15 @@
 - **Error Tracking**: Capturing and analyzing errors.
 # Sequence Diagram
 [View on Eraser![](https://app.eraser.io/workspace/08N54fRnjixYZPRZjnLl/preview?elements=5PdlvklwkPksaJ0AtCZIuQ&type=embed)](https://app.eraser.io/workspace/08N54fRnjixYZPRZjnLl?elements=5PdlvklwkPksaJ0AtCZIuQ)
+# Testing on Postman
+![image](https://github.com/Krishnan9074/Bank-Server/assets/114993913/443653b3-535d-4d1b-a11e-a92071112390)
+
+![image](https://github.com/Krishnan9074/Bank-Server/assets/114993913/cc631bc1-6f22-414f-827f-5a7efe403182)
+
+![image](https://github.com/Krishnan9074/Bank-Server/assets/114993913/c2dfa51f-7fb9-4fb4-a046-ba9175ece50b)
+
+![image](https://github.com/Krishnan9074/Bank-Server/assets/114993913/8ed9f603-e667-4ccc-95db-de983f3bc60f)
+
+![image](https://github.com/Krishnan9074/Bank-Server/assets/114993913/0e56ce05-3799-4cd4-a584-4104027dfc49)
+
+
