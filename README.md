@@ -38,3 +38,5 @@
 - **API Request/Response Logs**: Tracking API interactions.
 - **Performance Monitoring**: Monitoring system performance.
 - **Error Tracking**: Capturing and analyzing errors.
+# Sequence Diagram
+[View on Eraser![](https://app.eraser.io/workspace/08N54fRnjixYZPRZjnLl/preview?elements=5PdlvklwkPksaJ0AtCZIuQ&type=embed)](https://app.eraser.io/workspace/08N54fRnjixYZPRZjnLl?elements=5PdlvklwkPksaJ0AtCZIuQ)
